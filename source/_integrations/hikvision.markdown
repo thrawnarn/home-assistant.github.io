@@ -56,6 +56,7 @@ and has been confirmed to work with the following models:
 - DS-2CD2032-I
 - DS-2CD2042WD-I
 - DS-2CD2142FWD-I
+- DS-2CD2146G2-I
 - DS-2CD2155FWD-IS
 - IPC-D140H(-M)
 - DS-7616NI-K2 (NVR)
